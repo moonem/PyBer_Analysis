@@ -17,7 +17,7 @@ For both the *ride-count* and *driver-count* in each city type, Urban cities hav
 
 In terms of *average fare* for each city type, Urban cities show lower average fares but a lot more rides than Suburban and Rural cities. Rural cities have higher average fares but lower number of rides. The following scatter-plot / bubble-chart explains the scenario.
 
-![Fare, ride, per city Bubble Chart](analysis/Fig1.png)
+![Fare, ride, per city Bubble Chart](analysis/Fig1.jpg)
 
 If we dive down a little further into the dataframe, we can get the data distribution info like mean, median, range of data, outliers (if any) etc. from the  *Ride Count Data*, *Ride Fare Data* and *Driver Count Data* for each city type, as shown below.
 
