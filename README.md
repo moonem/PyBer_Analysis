@@ -25,4 +25,4 @@ If we dive down a little further into the dataframe, we can get the data distrib
 
 The similar analysis can better be visualized using pie-charts as shown below.
 
-![Ride, fare, driver Pie Chart](analysis/Fig5.png) !(analysis/Fig6.png) !(analysis/Fig7.png)
+![Ride, fare, driver Pie Chart](analysis/Fig5.png) ![](analysis/Fig6.png) ![](analysis/Fig7.png)
