@@ -13,7 +13,7 @@ After importing the required dependencies, the .csv datasets have been loaded in
 
 For both the *ride-count* and *driver-count* in each city type, Urban cities have the highest score as shown in the following bar-chart.
 
-![Ride & Driver BarChart](Resources/ride_driver_barchart.png)
+![Ride & Driver BarChart](Resources/ride_driver_barchart.png) 
 
 In terms of *average fare* for each city type, Urban cities show lower average fares but a lot more rides than Suburban and Rural cities. Rural cities have higher average fares but lower number of rides. The following scatter-plot / bubble-chart explains the scenario.
 
