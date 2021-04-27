@@ -1,8 +1,9 @@
 # Overview of PyBer Ride-share Data Analysis
 
-This project is about analyzing the ride-share data from PyBer company using two datasets - *city_data.csv* and *ride_data.csv*. The *city_data.csv* dataset contains information about the name of 120 cities, total drivers and type of city e.g., Urban, Suburban or Rural. And the *ride_data.csv* dataset contains 2,375 entries of ride-sharing information of those cities in 2019 including date, time, fare and ride ids. The key deliverables of this analysis are - 
+This project is about analyzing the ride-share data from PyBer company using two datasets - *city_data.csv* and *ride_data.csv*. The *city_data.csv* dataset contains information about the name of 120 cities, total drivers and type of city e.g., Urban, Suburban or Rural. And the *ride_data.csv* dataset contains 2,375 entries of ride-sharing information of those cities in 2019 including date, time, fare and ride-ids. The key deliverables of this analysis are - 
   
   (1) to create a summary dataframe having total rides, total drivers, average fare per ride and average fare per driver for each type of cities.
+  
   (2) to create a multiple line plot that shows the total weekly fares for each type of city.
   
 ## Results
@@ -46,7 +47,10 @@ The weekly PyBer fare data is presented below as a multiple-line chart for bette
 
 ## Summary
 The above analysis reveals the data on ride-count, driver-count, average-fare in Rural, Suburban and Rural cities. Based on the finding following recommendations can be made for the CEO of PyBer.
+
     (1) Both Rural and Suburban cities show lower number of drivers and higher average fares in comparison to Urban cities. Some incentives may be announced in those 2 types of cities to encourage more people to join to the driver fleet.
+    
     (2) Offer a lower fare in Rural and Suburban cities to motivate people to use ride-share services more.
+    
     (3) Although the Urban cities are adding the highest revenue to PyBer, the drivers in Urban cities earn almost 3.5 times less than Rural and 2.5 times less than Suburban city drivers. This is a huge gap in fare rates, which needs to be considered in future policy / benefit planning for drivers in Urban cities.
     
