@@ -29,7 +29,7 @@ The similar analysis can better be visualized using pie-charts as shown below.
 
 As the first deliverable of this project, a summary dataframe has been produced after a sequence of rigorous analysis on the dataframes and dataseries along the way. As mentioned earlier, the summary dataframe is having total rides, total drivers, average fare per ride and average fare per driver for each type of cities, as shown in the following figure.
 
-![Summary Data Frame](Resources/PyBer_summary_df.png)
+![Summary Data Frame](Resources/pyber_summary_df.png)
 
 The second deliverable is to create a multiple-line graph that shows the total fares for each week by city type. To accomplish this, we had to modify the dataframe using *pivot()* method such that the *index* is *date*, *columns* are *type* of cities and *values* are *fare*. The code and output for the pivot table is shown below.
 
@@ -42,3 +42,11 @@ The pivot table has been created with the intention to bring the *date* at the *
 The weekly PyBer fare data is presented below as a multiple-line chart for better visualization.
 
 ![Weekly Fare Summary](analysis/PyBer_fare_summary.png)
+
+
+## Summary
+The above analysis reveals the data on ride-count, driver-count, average-fare in Rural, Suburban and Rural cities. Based on the finding following recommendations can be made for the CEO of PyBer.
+    (1) Both Rural and Suburban cities show lower number of drivers and higher average fares in comparison to Urban cities. Some incentives may be announced in those 2 types of cities to encourage more people to join to the driver fleet.
+    (2) Offer a lower fare in Rural and Suburban cities to motivate people to use ride-share services more.
+    (3) Although the Urban cities are adding the highest revenue to PyBer, the drivers in Urban cities earn almost 3.5 times less than Rural and 2.5 times less than Suburban city drivers. This is a huge gap in fare rates, which needs to be considered in future policy / benefit planning for drivers in Urban cities.
+    
