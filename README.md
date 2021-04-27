@@ -9,5 +9,5 @@ This project is about analyzing the ride-share data from PyBer company using two
 
 After importing the required dependencies, the .csv datasets have been loaded into the *PyBer_Challenge.ipynb* jupyter notebook. For the sake of analysis, *city_data_df* and *ride_data_df* dataframes have been merged on the common column *"city"* to form a comprehensive dataframce *pyber_data_df* as shown below.
 
-![Merged PyBer Dataframe]("Resources/pyber_data_df.png")
+![Merged PyBer Dataframe](Resources/pyber_data_df.png)
 
