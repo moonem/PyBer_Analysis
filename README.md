@@ -11,3 +11,18 @@ After importing the required dependencies, the .csv datasets have been loaded in
 
 ![Merged PyBer Dataframe](Resources/pyber_data_df.png)
 
+For both the *ride-count* and *driver-count* in each city type, Urban cities have the highest score as shown in the following bar-chart.
+
+![Ride & Driver BarChart](Resources/ride_driver_barchart.png)
+
+In terms of *average fare* for each city type, Urban cities show lower average fares but a lot more rides than Suburban and Rural cities. Rural cities have higher average fares but lower number of rides. The following scatter-plot / bubble-chart explains the scenario.
+
+![Fare, ride, per city Bubble Chart](analysis/Fig1.png)
+
+If we dive down a little further into the dataframe, we can get the data distribution info like mean, median, range of data, outliers (if any) etc. from the  *Ride Count Data*, *Ride Fare Data* and *Driver Count Data* for each city type, as shown below.
+
+![Ride, fare, driver Box & Whisker Plot](analysis/Fig2.png) (analysis/Fig3.png) (analysis/Fig4.png)
+
+The similar analysis can better be visualized using pie-charts as shown below.
+
+![Ride, fare, driver Pie Chart](analysis/Fig5.png) (analysis/Fig6.png) (analysis/Fig7.png)
