@@ -26,3 +26,19 @@ If we dive down a little further into the dataframe, we can get the data distrib
 The similar analysis can better be visualized using pie-charts as shown below.
 
 ![Ride, fare, driver Pie Chart](analysis/Fig5.png) ![](analysis/Fig6.png) ![](analysis/Fig7.png)
+
+As the first deliverable of this project, a summary dataframe has been produced after a sequence of rigorous analysis on the dataframes and dataseries along the way. As mentioned earlier, the summary dataframe is having total rides, total drivers, average fare per ride and average fare per driver for each type of cities, as shown in the following figure.
+
+![Summary Data Frame](Resources/PyBer_summary_df.png)
+
+The second deliverable is to create a multiple-line graph that shows the total fares for each week by city type. To accomplish this, we had to modify the dataframe using *pivot()* method such that the *index* is *date*, *columns* are *type* of cities and *values* are *fare*. The code and output for the pivot table is shown below.
+
+![new Pivot table](Resources/new_pyber_df_pivot.png)
+
+The pivot table has been created with the intention to bring the *date* at the *index* position so that we can convert the *date* column to *datetime* type to enable further sampling at different time-series frequencies, e.g. per Week, per Month etc. The following figure shows the weekly PyBer fare for eacy city type.
+
+![new Pivot table](Resources/weekly_pyber_fare.png)
+
+The weekly PyBer fare data is presented below as a multiple-line chart for better visualization.
+
+![Weekly Fare Summary](analysis/PyBer_fare_summary.png)
