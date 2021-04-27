@@ -21,8 +21,8 @@ In terms of *average fare* for each city type, Urban cities show lower average f
 
 If we dive down a little further into the dataframe, we can get the data distribution info like mean, median, range of data, outliers (if any) etc. from the  *Ride Count Data*, *Ride Fare Data* and *Driver Count Data* for each city type, as shown below.
 
-![Ride, fare, driver Box & Whisker Plot](analysis/Fig2.png) (analysis/Fig3.png) (analysis/Fig4.png)
+![Ride, fare, driver Box & Whisker Plot](analysis/Fig2.png) !(analysis/Fig3.png) !(analysis/Fig4.png)
 
 The similar analysis can better be visualized using pie-charts as shown below.
 
-![Ride, fare, driver Pie Chart](analysis/Fig5.png) (analysis/Fig6.png) (analysis/Fig7.png)
+![Ride, fare, driver Pie Chart](analysis/Fig5.png) !(analysis/Fig6.png) !(analysis/Fig7.png)
