@@ -54,4 +54,5 @@ The above analysis reveals the data on ride-count, driver-count, average-fare in
     
     (3) Although the Urban cities are adding the highest revenue to PyBer, the drivers in Urban cities earn almost 3.5 times less than Rural and 2.5 times less than Suburban city drivers. This is a huge gap in fare rates, which needs to be considered in future policy / benefit planning for drivers in Urban cities.
     
-### Contact: m.a.moonem@gmail.com
+### Contact: 
+  m.a.moonem@gmail.com
